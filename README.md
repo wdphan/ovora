@@ -1,4 +1,4 @@
-# Frontend for NFT Lottery
+# Frontend for Ovora
 
 > A lottery that requires funds to participate
 
